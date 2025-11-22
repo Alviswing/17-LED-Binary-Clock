@@ -27,3 +27,4 @@ I wanted to avoid making a clock too costly and I wanted to keep the cost down a
 
 ## Turning a DC Current to a 1 Hz signal :
 Looking into oscilating circuit I learned about the **Astable Multivibrator** :
+<img width="250" height="202" alt="image" src="https://github.com/user-attachments/assets/e2e561e5-8b96-4d36-bc93-a16649e9ba5b" />
