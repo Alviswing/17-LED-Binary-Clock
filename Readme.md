@@ -72,7 +72,7 @@ Yes it is simply 6 basic half adder. No need to add unnecessary complexity where
 
 The Idea is that every clock cycle it emit a signal. The clock signal each time is interpretted as a "+1". A system relying on flip flop prevent the adder to forget the count and another logic gate system wait for the adder to reach 60 before reseting the adder.
 
-I chose 6 bit as it is the smallest number of byte capable to reach 60.
+I chose 6 bit as it is the smallest number of bits capable to reach 60.
 
 I am using it to count both seconds and minutes !
 
